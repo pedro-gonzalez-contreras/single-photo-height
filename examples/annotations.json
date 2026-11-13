@@ -1,0 +1,74 @@
+{
+  "source": "Generated entirely by generate_examples.py",
+  "warning": "Ideal coplanar synthetic illustrations, not validation on real people.",
+  "examples": [
+    {
+      "image": "frontal.png",
+      "head": [
+        1100.0,
+        230.0
+      ],
+      "base": [
+        1100.0,
+        2030.0
+      ],
+      "ground_truth_height_m": 1.8,
+      "squares": [
+        9,
+        6
+      ],
+      "square_mm": 27,
+      "generation_homography": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "image": "perspective.png",
+      "head": [
+        992.8762669726524,
+        247.37043411742204
+      ],
+      "base": [
+        1149.466009447525,
+        2003.1834052166766
+      ],
+      "ground_truth_height_m": 1.8,
+      "squares": [
+        9,
+        6
+      ],
+      "square_mm": 27,
+      "generation_homography": [
+        [
+          0.88,
+          0.045,
+          60.0
+        ],
+        [
+          -0.025,
+          0.94,
+          70.0
+        ],
+        [
+          5e-05,
+          -4e-05,
+          1.0
+        ]
+      ]
+    }
+  ]
+}
