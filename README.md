@@ -89,5 +89,3 @@ These photographs also informed development; this is not an independent accuracy
 ## License and dependencies
 
 The project's code and original synthetic examples are distributed under the [MIT license](LICENSE). NumPy, OpenCV, Pillow and MediaPipe retain their own licenses. The pretrained MediaPipe Pose Landmarker Full v1 model is an external asset downloaded separately; it is not covered by this project's MIT license. See the [official model documentation](https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker) and [MediaPipe source](https://github.com/google-ai-edge/mediapipe).
-
-Personal photos, generated measurements, model weights and virtual environments are excluded from version control. Image processing runs locally; model setup downloads the model without sending photographs.
